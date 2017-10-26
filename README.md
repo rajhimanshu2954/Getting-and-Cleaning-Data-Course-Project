@@ -4,7 +4,7 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 1. Set the working directory and create a folder named data where the unzipped data will be stored
 2. Download the dataset if it does not already exist in the working directory
 3. Load the activity and feature info
-4. Loads both the training and test datasets
+4. Loads both the training and test datasets with the selected features
 5. Loads the activity and subject data for each dataset, and merges those columns with the dataset
 6. Merges the two datasets
 7. Converts the activity and subject columns into factors
